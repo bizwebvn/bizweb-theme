@@ -1,0 +1,11 @@
+{
+   "name":"BwTheme",
+   "version":"0.1.0",
+   "devDependencies":{
+      "grunt":"~1.0.0",
+      "glob":"~7.0.6",
+      "growl":"~1.9.2",
+      "grunt-contrib-watch":"~1.0.0",
+      "grunt-bizweb":"*"
+   }
+}
